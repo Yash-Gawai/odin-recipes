@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 
 This is made for the assignment in HTML part of the foundation course in Odin project.
 
